@@ -19,6 +19,3 @@
 在predict.py里指定训练好的模型路径与数据集路径，运行python predict.py
 
 
-
-# qinchangwei
-# qinchangwei
